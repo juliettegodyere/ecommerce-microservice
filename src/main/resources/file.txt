@@ -1,0 +1,8 @@
+More info on this program https://www.youtube.com/watch?v=mPPhcU7oWDU
+TestContainers - https://testcontainers.com/modules/mysql/
+Eureka Servers - 
+WebClient - 
+Eureka dashboard - http://localhost:8761/
+How to run multiple modules on STS.
+
+API Gateway - https://spring.io/projects/spring-cloud-gateway
